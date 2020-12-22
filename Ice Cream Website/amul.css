@@ -1,0 +1,180 @@
+body{
+	background-image:url('https://images.all-free-download.com/images/graphiclarge/ice_cream_background_colorful_repeating_decoration_6829673.jpg');
+	font-family:helvetica nue, helvetica, verdana, sans-serif, arial;
+	font-weight:normal;
+
+	/* Same as above */
+	font:normal calibri;
+
+	line-height:1.6em;
+	margin:0;
+}
+
+.title{
+	font-family:verdana;
+	color:darkblue;
+	text-decoration:underline;
+	text-transform:uppercase;
+	text-align:center;
+}
+
+.amul{
+	font-size:20px;
+}
+
+.amul .para1{
+	background-color:orange;
+	border:5px red solid;
+	color:brown;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-right:20px;
+	margin-left:20px;
+}
+
+.amul .para2{
+	background-color:green;
+	border:5px red solid;
+	color:skyblue;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-right:20px;
+	margin-left:20px;
+}
+
+.amul .para3{
+	background-color:violet;
+	border:5px red solid;
+	color:red;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-right:20px;
+	margin-left:20px;
+}
+
+.center1{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:25%;
+	height:25%;
+}
+
+.amul .para4{
+	background-color:darkgray;
+	border:5px red solid;
+	color:darkgreen;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-right:20px;
+	margin-left:20px;
+}
+
+.center2{
+	display:block;
+	margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+	width:25%;
+	height:20%;
+}
+
+.center3{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+	width:35%;
+	height:35%;
+}
+
+.amul .para5{
+	background-color:brown;
+	border:5px red solid;
+	color:orange;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-right:20px;
+	margin-left:20px;
+}
+
+.conclusion{
+	background-color:yellow;
+	border:5px red solid;
+	color:purple;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:20px;
+	padding-top:20px;
+
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.conclusion h2{
+	text-transform:uppercase;
+	color:brown;
+}
+
+.video p{
+	font-weight:bold;
+	font-size:24px;
+	padding-left:20px;
+	padding-top:0;
+}
+
+.video .history{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+	width:25%;
+	height:25%;
+}

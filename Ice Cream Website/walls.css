@@ -1,0 +1,194 @@
+body{
+	
+    font-family: Verdana;
+	font-weight:normal;
+	/* Same as above */
+	font: normal Verdana;
+	
+	
+	line-height:1.6em;
+	margin:0;
+	
+	background-image: url('https://images.all-free-download.com/images/graphiclarge/ice_cream_background_colorful_repeating_decoration_6829673.jpg')
+}
+
+.title{
+	text-transform:uppercase;
+	text-align:center;
+	color:brown;
+}
+
+.center1{
+    display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 15%;
+}
+
+.introduction-to-walls{
+	text-transform:uppercase;
+	background-color:violet;
+	color:red;
+	border:5px red solid;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.introduction-to-walls h2{
+	text-decoration:underline;
+}
+
+.introduction-to-walls p{
+	font-size:18px;
+}
+
+.history{
+	text-transform:uppercase;
+	background-color:green;
+	color:darkorange;
+	border:5px red solid;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+	
+	/* Same as above */
+	padding:20px;
+	
+	margin-top:20px;
+	margin:20px 0;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.history h2{
+	text-decoration:underline;
+}
+
+.history p{
+	font-size:18px;
+}
+
+.center2{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:20%;
+	height:20%;
+}
+
+.founder{
+	font-style:italic;
+	font-size:15px;
+	text-align:center;
+}
+
+.history-of-ice-cream{
+	text-transform:uppercase;
+	background-color:orange;
+	color:brown;
+	border:5px red solid;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+	
+	/* Same as above */
+	padding:20px;
+	
+	margin-top:20px;
+	margin:20px 0;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.history-of-ice-cream h2{
+	text-decoration:underline;
+}
+
+.history-of-ice-cream p{
+	font-size:20px;
+}
+
+.ice-cream-brands-in-walls{
+	text-transform:uppercase;
+	background-color:blue;
+	border:5px red solid;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+	
+	/* Same as above */
+	padding:20px;
+	
+	margin-top:20px;
+	margin:20px 0;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.ice-cream-brands-in-walls h2{
+	text-decoration:underline;
+	text-align:center;
+	color:gold;
+}
+
+.ice-cream-brands-in-walls ul{
+	font-size:24px;
+	color:yellow;
+}
+
+.magnum{
+	padding-top:20px;
+	padding-bottom:20px;
+	width:15%;
+	height:15%;
+}
+
+.paddlepop{
+	padding-top:20px;
+	padding-bottom:20px;
+	width:15%;
+	height:15%;
+}
+
+.cornetto{
+	padding-top:20px;
+	padding-bottom:20px;
+	width:15%;
+	height:15%;
+}
+
+.walls-feast{
+	padding-top:20px;
+	padding-bottom:20px;
+	width:15%;
+	height:15%;
+}
+
+.description{
+	font-family:comic sans ms;
+	font-weight:bold;
+	font-size:24px;
+	padding-left:20px;
+}
+
+.video{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+	width:25%;
+	height:25%;
+}

@@ -1,0 +1,232 @@
+body{
+	background-image:url('https://images.all-free-download.com/images/graphiclarge/ice_cream_background_colorful_repeating_decoration_6829673.jpg');
+	font-family:verdana, helvetica, sans-serif, arial;
+	font-weight:normal;
+
+	/* Same as above */
+	font:normal calibri;
+
+	line-height:1.6em;
+	margin:0;
+}
+
+.title{
+	text-align:center;
+	text-transform:uppercase;
+	color:purple;
+}
+
+.center1{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:25%;
+	height:25%;
+}
+
+.introduction-para{
+	background-color:lightgreen;
+	color:red;
+	text-transform:uppercase;
+	border:5px red solid;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.introduction-para h2{
+	text-decoration:underline;
+}
+
+.introduction-para p{
+	font-size:18px;
+}
+
+.center2{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:30%;
+	height:30%;
+}
+
+.founder-name{
+	font-style:italic;
+	font-size:16px;
+	text-align:center;
+}
+
+.second-para{
+	background-color:brown;
+	color:orange;
+	text-transform:uppercase;
+	border:5px red solid;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.second-para h2{
+	text-decoration:underline;
+}
+
+.second-para p{
+	font-size:18px;
+}
+
+.third-para{
+	background-color:darkorange;
+	color:darkblue;
+	border:5px red solid;
+	text-transform:uppercase;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.third-para h2{
+	text-decoration:underline;
+}
+
+.third-para p{
+	font-size:18px;
+}
+
+.conclusion-para{
+	background-color:blue;
+	color:gold;
+	border:5px red solid;
+	text-transform:uppercase;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.conclusion-para h2{
+	text-decoration:underline;
+}
+
+.conclusion-para p{
+	font-size:18px;
+}
+
+.productlist{
+	background-color:grey;
+	color:darkred;
+	border:5px red solid;
+	text-transform:uppercase;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.productlist h2{
+	text-align:center;
+	text-decoration:underline;
+}
+
+.productlist li{
+	font-size:18px;
+}
+
+.productlist .icecream1{
+	padding-top:10px;
+	padding-bottom:10px;
+	width:15%;
+	height:15%;
+}
+
+.productlist .icecream2{
+	padding-top:10px;
+	padding-bottom:10px;
+	width:15%;
+	height:15%;
+}
+
+.productlist .icecream3{
+	padding-top:10px;
+	padding-bottom:10px;
+	width:15%;
+	height:15%;
+}
+
+.productlist .icecream4{
+	padding-top:10px;
+	padding-bottom:10px;
+	width:15%;
+	height:15%;
+}
+
+.productlist .icecream5{
+	padding-top:10px;
+	padding-bottom:10px;
+	width:15%;
+	height:15%;
+}
+
+.productlist .icecream6{
+	padding-top:10px;
+	padding-bottom:10px;
+	width:15%;
+	height:15%;
+}
+
+.description{
+	padding-left:30px;
+	font-family:comic sans ms;
+	font-weight:bold;
+}
+
+.center3{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+	width:25%;
+	height:25%;
+}

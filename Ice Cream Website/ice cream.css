@@ -1,0 +1,160 @@
+/*
+*{
+	margin:0;
+	padding:0;
+}
+*/
+
+body{
+	
+    font-family: Helvetica, Verdana, sans-serif, Comic Sans MS;
+	font-size: 18px;
+	font-weight:normal;
+	/* Same as above */
+	font: normal Helvetica, Verdana, sans-serif, Comic Sans MS;
+	
+	
+	line-height:1.6em;
+	margin:0;
+	
+	background-image: url('https://images.all-free-download.com/images/graphiclarge/ice_cream_background_colorful_repeating_decoration_6829673.jpg')
+}
+
+.categories ul li a{
+	text-decoration:none;
+	color:blue;
+}
+
+.categories ul li a:hover{
+	color:red;
+}
+
+.categories ul li a:active{
+	color:green;
+}
+
+.categories ul li a:visited{
+	color:#000;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+}
+
+.box-1{
+	background-color:#333;
+	color:#fff;
+	
+	border-right:5px red solid;
+	border-left:5px red solid;
+	border-top:5px red solid;
+	border-bottom:5px red solid;
+	border-width:3px;
+	border-bottom-width:10px;
+	border-top-style:dotted;
+	
+	border:5px red solid;
+	
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-right:20px;
+	padding-left:20px;
+	
+	/* Same as above */
+	padding:20px;
+	
+	margin-top:20px;
+	margin:20px 0;
+}
+
+.box-1 h1{
+	font-family:trebuchet ms;
+	font-weight:800;
+	font-style:italic;
+	text-decoration:underline;
+	text-transform:uppercase;
+	letter-spacing: 0.2em;
+	word-spacing: 1em;
+}
+
+.box-2{
+	border:3px dotted black;
+	padding:20px;
+	margin: 20px 0;
+}
+
+.categories{
+	border:1px black solid;
+	padding:10px;
+	border-radius:15px;
+}
+
+.categories ul{
+	padding:0;
+	padding-left:20px;
+	list-style:square;
+	list-style:none;
+}
+
+.categories h2{
+	text-align:center;
+}
+
+.categories li{
+	padding-bottom:6px;
+	border-bottom:dotted 1px #333;
+}
+
+.unordered-list ul{
+	font-size:24px;
+}
+
+.unordered-list h2{
+	text-align:center;
+}
+
+li.list-1{
+	background-color:brown;
+}
+
+li.list-2{
+	background-color:pink;
+}
+
+li.list-3{
+	background-color:white;
+}
+
+li.list-4{
+	background-color:#ffaf;
+}
+
+li.list-5{
+	background-color:purple;
+}
+
+.my-form{
+	padding-top:20px;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+.my-form .form-group{
+	padding-bottom:15px;
+}
+
+.my-form label{
+	display:block;
+}
+
+.my-form input[type="text"], .my-form textarea{
+	padding:8px;
+	width:100%;
+}
+
+button.submit-button{
+	background-color:#333;
+	color:#fff;
+	padding:10px;
+}

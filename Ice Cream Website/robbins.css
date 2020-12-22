@@ -1,0 +1,194 @@
+body{
+	background-image:url('https://images.all-free-download.com/images/graphiclarge/ice_cream_background_colorful_repeating_decoration_6829673.jpg');
+	font-family:verdana, roboto, helvetica nue, helvetica, arial, sans-serif;
+	font-weight:normal;
+	/* Same as above */
+	font:normal verdana, roboto, helvetica nue, helvetica, arial, sans-serif;
+
+	line-height:1.6em;
+	margin:0;
+}
+
+.title{
+	color:purple;
+	text-transform:uppercase;
+	text-align:center;
+}
+
+.logo{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:25%;
+}
+
+.introduction{
+	background-color:pink;
+	color:red;
+	border:5px red solid;
+	text-transform:uppercase;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-bottom:20px; 
+	margin-left:20px; 
+	margin-right:20px; 
+}
+
+.introduction h2{
+	text-decoration:underline;
+}
+
+.introduction p{
+	font-size:18px;
+}
+
+.second-para{
+	background-color:orange;
+	color:brown;
+	border:5px red solid;
+	text-transform:uppercase;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-bottom:20px; 
+	margin-left:20px; 
+	margin-right:20px; 
+}
+
+.second-para h2{
+	text-decoration:underline;
+}
+
+.second-para p{
+	font-size:18px;
+}
+
+.founder1{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+	width:25%;
+}
+
+.text1{
+	font-style:italic;
+	font-size:15px;
+	text-align:center;
+}
+
+.founder2{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:25%;
+}
+
+.text2{
+	font-style:italic;
+	font-size:15px;
+	text-align:center;
+}
+
+.product-list{
+	background-color:green;
+	color:skyblue;
+	border:5px red solid;
+	text-transform:uppercase;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+	/* Same as above */
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+	margin-bottom:20px; 
+	margin-left:20px; 
+	margin-right:20px; 
+}
+
+.product-list h2{
+	text-decoration:underline;
+	text-align:center;
+}
+
+.product-list ul li{
+	font-size:18px;
+}
+
+.icecream1{
+	display:block;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:15%;
+}
+
+.icecream2{
+	display:block;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:15%;
+}
+
+.icecream3{
+	display:block;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:15%;
+}
+
+.icecream4{
+	display:block;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:15%;
+}
+
+.icecream5{
+	display:block;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:15%;
+}
+
+.icecream6{
+	display:block;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:15%;
+}
+
+.icecream7{
+	display:block;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:15%;
+}
+
+.text3{
+	font-family:Comic Sans MS;
+	padding-left:30px;
+}
+
+.video{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+	width:30%;
+}
